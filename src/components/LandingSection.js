@@ -17,7 +17,7 @@ const LandingSection = () => (
      <VStack spacing={4} alignItems="center"> 
        <Avatar 
          src="https://media.licdn.com/dms/image/D5635AQEExUnIfIdr-A/profile-framedphoto-shrink_400_400/0/1713361609403?e=1714125600&v=beta&t=cT3OB8_gAazlpvVm09sn2RgOehJ4G-6m5zox8EXfOKs" 
-         size="3xl" 
+         size="2xl" 
          name="Diwas Pandit" 
        /> 
        <Heading as="h4" size="md" noOfLines={1}> 
