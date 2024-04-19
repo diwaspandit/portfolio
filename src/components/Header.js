@@ -3,9 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons"; 
 import { 
  faGithub, 
- faLinkedin, 
- faMedium, 
- faStackOverflow, 
+ faLinkedin,
 } from "@fortawesome/free-brands-svg-icons"; 
 import { Box, HStack } from "@chakra-ui/react"; 
 
@@ -21,14 +19,6 @@ const socials = [
  {
    icon: faLinkedin,
    url: "https://www.linkedin.com/in/diwaspandit12/",
- },
- {
-   icon: faMedium,
-   url: "/",
- },
- {
-   icon: faStackOverflow,
-   url: "/",
  },
 ];
 
